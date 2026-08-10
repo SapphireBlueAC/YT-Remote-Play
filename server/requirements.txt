@@ -1,0 +1,4 @@
+ytmusicapi>=1.8.0
+python-mpv>=1.0.6
+websockets>=12.0
+yt-dlp>=2024.0.0

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "YT Music Remote",
+    "slug": "ytmusic-remote",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.ytdeskremote.app"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
